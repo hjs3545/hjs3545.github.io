@@ -1,5 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-07-05T22:58:00+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
-</subtitle><author><name>Author Name</name><email>vika@kaptn.ru</email></author><entry><title type="html">210705 모각코 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210705_2.html" rel="alternate" type="text/html" title="210705 모각코 결과" /><published>2021-07-05T23:00:00+09:00</published><updated>2021-07-05T23:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210705_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210705_2.html">&lt;p&gt;성공한 문제:  도형 넓이 구하기문제 , 재귀피보나치 문제&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-07-08T23:50:45+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
+</subtitle><author><name>Author Name</name><email>vika@kaptn.ru</email></author><entry><title type="html">210708 모각코 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210708_2.html" rel="alternate" type="text/html" title="210708 모각코 결과" /><published>2021-07-08T23:00:03+09:00</published><updated>2021-07-08T23:00:03+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210708_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210708_2.html">&lt;h1 id=&quot;1학기-자바-실습문제-9주차-문제-발표&quot;&gt;1학기 자바 실습문제 9주차 문제 &lt;strong&gt;발표&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;part. 객체지향&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;차공장&lt;/li&gt;
+  &lt;li&gt;도형 넓이 구하기&lt;/li&gt;
+  &lt;li&gt;재귀피보나치&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;코드 리뷰 후 배운점:&lt;/p&gt;
+
+&lt;p&gt;불필요한 함수를 클래스 내에 만들 필요가 없었다.this는 필드변수와 매개변수가 이름이 같을 때 쓰는데 굳이 쓰지 않아도 될때는 쓰지 않아도 되었다.&lt;/p&gt;
+
+&lt;p&gt;다른 사람의 코드리뷰 후
+별돌리기 문제에서 배열을 생성 후 출력의 방식을 다르게해서 쉽게 출력할 수 있었다.
+collection 클래스에 대해서 배울 수 있었다.&lt;/p&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">1학기 자바 실습문제 9주차 문제 발표</summary></entry><entry><title type="html">210708 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210708.html" rel="alternate" type="text/html" title="210708 모각코 목표" /><published>2021-07-08T20:00:00+09:00</published><updated>2021-07-08T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210708</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210708.html">&lt;h1 id=&quot;1학기-자바-실습문제-9주차-문제-발표&quot;&gt;1학기 자바 실습문제 9주차 문제 &lt;strong&gt;발표&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;part. 객체지향&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;차공장&lt;/li&gt;
+  &lt;li&gt;도형 넓이 구하기&lt;/li&gt;
+  &lt;li&gt;재귀피보나치&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">1학기 자바 실습문제 9주차 문제 발표</summary></entry><entry><title type="html">210705 모각코 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210705_2.html" rel="alternate" type="text/html" title="210705 모각코 결과" /><published>2021-07-05T23:00:00+09:00</published><updated>2021-07-05T23:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210705_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210705_2.html">&lt;p&gt;성공한 문제:  도형 넓이 구하기문제 , 재귀피보나치 문제&lt;/p&gt;
 
 &lt;p&gt;실패한 문제: 차공장 문제&lt;/p&gt;
 
