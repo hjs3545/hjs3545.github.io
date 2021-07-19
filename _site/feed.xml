@@ -1,5 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-07-19T20:04:56+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
-</subtitle><author><name>Author Name</name><email>vika@kaptn.ru</email></author><entry><title type="html">210719 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210719.html" rel="alternate" type="text/html" title="210719 모각코 목표" /><published>2021-07-19T20:00:00+09:00</published><updated>2021-07-19T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210719</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210719.html">&lt;p&gt;자바의 정석&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-07-19T22:55:23+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
+</subtitle><author><name>Author Name</name><email>vika@kaptn.ru</email></author><entry><title type="html">210719 모각코 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210719_2.html" rel="alternate" type="text/html" title="210719 모각코 결과" /><published>2021-07-19T23:00:00+09:00</published><updated>2021-07-19T23:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210719_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210719_2.html">&lt;p&gt;자바의 정석&lt;/p&gt;
+
+&lt;p&gt;Chapter 12 지네릭스에 대해서&lt;/p&gt;
+
+&lt;p&gt;1.5 와일드 카드
+1.6 지네릭 메서드
+1.7 지네릭 타입의 형변환
+1.8 지네릭 타입의 제거&lt;/p&gt;
+
+&lt;p&gt;개념학습을 위해 상속과 다형성을 복습한 뒤 5~8단원에 대해서 학습하였다.&lt;/p&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">자바의 정석</summary></entry><entry><title type="html">210719 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210719.html" rel="alternate" type="text/html" title="210719 모각코 목표" /><published>2021-07-19T20:00:00+09:00</published><updated>2021-07-19T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210719</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210719.html">&lt;p&gt;자바의 정석&lt;/p&gt;
 
 &lt;p&gt;Chapter 12 지네릭스에 대해서&lt;/p&gt;
 
@@ -76,16 +85,4 @@ part. 객체지향&lt;/p&gt;
   &lt;li&gt;차공장&lt;/li&gt;
   &lt;li&gt;도형 넓이 구하기&lt;/li&gt;
   &lt;li&gt;재귀피보나치&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">1학기 자바 실습문제 복습 part. 객체지향 차공장 도형 넓이 구하기 재귀피보나치</summary></entry><entry><title type="html">2021 하계 모각코 개인별 목표 설정</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/dfsef.html" rel="alternate" type="text/html" title="2021 하계 모각코 개인별 목표 설정" /><published>2021-06-23T17:30:00+09:00</published><updated>2021-06-23T17:30:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/dfsef</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/dfsef.html">&lt;h2 id=&quot;하계-모각코-개인-목표-설정&quot;&gt;하계 모각코 개인 목표 설정&lt;/h2&gt;
-&lt;h3 id=&quot;학번-이름--202102571-황재성&quot;&gt;😀학번, 이름 : 202102571 황재성&lt;/h3&gt;
-&lt;h3 id=&quot;목표--java-복습예습&quot;&gt;🎡목표 : JAVA 복습,예습&lt;/h3&gt;
-
-&lt;h3 id=&quot;일정-&quot;&gt;📄일정 :&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;1회차[7/5], 1학기 코딩예제 연습&lt;/li&gt;
-  &lt;li&gt;2회차[7/8],  1학기 코딩예제 피드백,발표&lt;/li&gt;
-  &lt;li&gt;3회차[7/12],  2학기 자바예습1&lt;/li&gt;
-  &lt;li&gt;4회차[7/15],  2학기 자바예습1 피드백,발표&lt;/li&gt;
-  &lt;li&gt;5회차[7/19],  2학기 자바예습2&lt;/li&gt;
-  &lt;li&gt;6회차[7/22],  2학기 자바예습2 피드백, 발표&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">하계 모각코 개인 목표 설정 😀학번, 이름 : 202102571 황재성 🎡목표 : JAVA 복습,예습</summary></entry></feed>
+&lt;/ol&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">1학기 자바 실습문제 복습 part. 객체지향 차공장 도형 넓이 구하기 재귀피보나치</summary></entry></feed>
