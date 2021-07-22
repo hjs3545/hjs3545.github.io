@@ -1,5 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-07-19T22:55:23+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
-</subtitle><author><name>Author Name</name><email>vika@kaptn.ru</email></author><entry><title type="html">210719 모각코 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210719_2.html" rel="alternate" type="text/html" title="210719 모각코 결과" /><published>2021-07-19T23:00:00+09:00</published><updated>2021-07-19T23:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210719_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210719_2.html">&lt;p&gt;자바의 정석&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-07-22T20:06:34+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
+</subtitle><author><name>Author Name</name><email>vika@kaptn.ru</email></author><entry><title type="html">210722 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210722.html" rel="alternate" type="text/html" title="210722 모각코 목표" /><published>2021-07-22T20:00:00+09:00</published><updated>2021-07-22T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210722</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210722.html">&lt;p&gt;자바의 정석&lt;/p&gt;
+
+&lt;p&gt;Chapter 12 지네릭스에 대해서&lt;/p&gt;
+
+&lt;p&gt;1.5 와일드 카드
+1.6 지네릭 메서드
+1.7 지네릭 타입의 형변환
+1.8 지네릭 타입의 제거&lt;/p&gt;
+
+&lt;p&gt;발표&lt;/p&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">자바의 정석</summary></entry><entry><title type="html">210719 모각코 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210719_2.html" rel="alternate" type="text/html" title="210719 모각코 결과" /><published>2021-07-19T23:00:00+09:00</published><updated>2021-07-19T23:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210719_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210719_2.html">&lt;p&gt;자바의 정석&lt;/p&gt;
 
 &lt;p&gt;Chapter 12 지네릭스에 대해서&lt;/p&gt;
 
@@ -79,10 +88,4 @@ collection 클래스에 대해서 배울 수 있었다.&lt;/p&gt;</content><auth
 
 &lt;p&gt;실패한 이유: 생성자와 메서드를 혼동하였다. 메서드에서 생성자를 호출하는 법을 까먹었다.&lt;/p&gt;
 
-&lt;p&gt;복습한 개념: 오버로딩, 오버라이딩, 생성자,  this 에 대해서 복습하였다&lt;/p&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">성공한 문제: 도형 넓이 구하기문제 , 재귀피보나치 문제</summary></entry><entry><title type="html">210705 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210705.html" rel="alternate" type="text/html" title="210705 모각코 목표" /><published>2021-07-05T20:00:00+09:00</published><updated>2021-07-05T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210705</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210705.html">&lt;p&gt;1학기 자바 실습문제 복습
-part. 객체지향&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;차공장&lt;/li&gt;
-  &lt;li&gt;도형 넓이 구하기&lt;/li&gt;
-  &lt;li&gt;재귀피보나치&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">1학기 자바 실습문제 복습 part. 객체지향 차공장 도형 넓이 구하기 재귀피보나치</summary></entry></feed>
+&lt;p&gt;복습한 개념: 오버로딩, 오버라이딩, 생성자,  this 에 대해서 복습하였다&lt;/p&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">성공한 문제: 도형 넓이 구하기문제 , 재귀피보나치 문제</summary></entry></feed>
